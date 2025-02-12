@@ -1,4 +1,4 @@
-# Notes Manager
+# Notes Manager (old portfolio project)
 
 ## Introduction
 
